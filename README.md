@@ -1,5 +1,4 @@
-                    
-                                                       Decoding Climate Change: Analyzing and Forecasting Global Temperature Anomalies
+  Decoding Climate Change: Analyzing and Forecasting Global Temperature Anomalies
 
 
 
